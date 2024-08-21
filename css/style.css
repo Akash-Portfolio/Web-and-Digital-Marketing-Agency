@@ -26,3 +26,7 @@ body {
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
 }
 
+.container-fluid {
+    max-width: 1400px;
+    margin: 0 auto;
+}
